@@ -1,0 +1,19 @@
+HOT OR COLD THINKFUL ASSIGNMENT
+===============================
+
+Use the HTML and CSS supplied
+newGame() - no reloading page
+generateNum()
+Static feedback
+	1-10 - burning hot
+	10-20 - hot
+	21-30 - warm
+	31-50 - cold
+	51-70 - ice cold
+	70+ - winter-in-NY cold
+	90+ - Edge of solar system
+Track how many guesses made
+Add the number they guessed onto the list
+Make sure input is 1-100
+
+Extra: 
