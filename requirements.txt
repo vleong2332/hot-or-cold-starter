@@ -1,4 +1,4 @@
-HOT OR COLD THINKFUL ASSIGNMENT
+HOT OR COLD REQUIREMENTS
 ===============================
 
 Use the HTML and CSS supplied
